@@ -1,2 +1,3 @@
 # Jetson-Nano
 Hello word
+Hi,Here,I want to studying Linux/Python/OpenCV/CUDA ...
